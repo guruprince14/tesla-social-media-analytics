@@ -1,4 +1,3 @@
-![Dashboard](dashboard.png)
 # Tesla Social Media Analytics (Excel Project)
 
 ## 📊 Project Overview
